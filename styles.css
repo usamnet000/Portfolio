@@ -29,37 +29,6 @@ body {
   }
 }
 
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
-}
-
-.heading {
-  color: black;
-}
-
-.subTitle {
-  color: #868e96;
-}
-
 /* header */
 
 .header {
@@ -325,6 +294,7 @@ body {
 /* SocialMedia */
 .social-media-div {
   font-size: 2em;
+  text-align: center;
 }
 
 .icon-button i {
@@ -932,7 +902,7 @@ body {
   color: #868e96;
 }
 
-.footer-div {
+.footer-section {
   margin-top: 2rem;
 
 }
