@@ -2,6 +2,10 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css";
 @import "https://fonts.googleapis.com/css?family=Dancing+Script&display=swap";
 
+a {
+  text-decoration: none;
+  color: #000;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
@@ -539,6 +543,7 @@ body {
   letter-spacing: -0.5px;
   overflow: hidden;
   margin: 0px;
+  display: inline;
 }
 
 .repo-star-svg {
